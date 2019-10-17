@@ -1,6 +1,6 @@
 # Carpentries Tagathon
 
-This is the Oslo carpentry Study group's contribution to the (October Tagathon)[https://carpentries.org/blog/2019/10/carpentries-tagathon/]. The original blog posts courtesy of (Data Carpentries)[https://datacarpentry.org/blog/].
+This is the Oslo carpentry Study group's contribution to the [October Tagathon](https://carpentries.org/blog/2019/10/carpentries-tagathon/). The original blog posts courtesy of [Data Carpentries](https://datacarpentry.org/blog/).
 
 ## What does it do so far?
 
