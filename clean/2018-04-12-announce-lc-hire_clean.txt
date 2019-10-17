@@ -1,0 +1,63 @@
+
+
+“BUILDING LIBRARY CARPENTRY COMMUNITY AND DEVELOPMENT”
+
+
+NA
+
+We are excited to announce that Chris Erdmann has been hired as the
+Library Carpentry Community and Development Director starting May 4,
+2018.
+
+Chris has worked in libraries for more than 21 years to integrate data
+management and workflows in database and library systems. Through
+training, consulting and tool development to build programs, he has
+tried to empower people in research and library communities to work
+effectively with data. Chris received his MLIS at the University of
+Washington iSchool while working at the University’s Technology Transfer
+Office, where he helped automate workflows and develop the unit’s web
+presence and analytics. He spent roughly ten years working alongside
+astronomers at the European Southern Observatory (ESO) and
+Harvard-Smithsonian Center for Astrophysics to advance library
+data-mining and linking services, e.g. ESO Telescope Bibliography. Also
+during this time, he led an experimental training series called Data
+Scientist Training for Librarians (DST4L) geared towards teaching
+librarians data-savvy skills to help transform their library services to
+meet the needs of their research communities. He recently joined the
+Library Carpentry governance group.
+
+He is a co-author with Matt Burton, Liz Lyon, and Bonnie Tijerina on the
+recent report _Shifting to Data Savvy: The Future of Data Science In
+Libraries_, where Library Carpentry and The Carpentries are highlighted
+as a necessary next step for libraries to advance their research
+services.
+
+Chris will be working with the Library Carpentry community and The
+Carpentries to start mapping out the infrastructure for growing the
+community, formalizing lesson development processes, expanding its pool
+of instructors, and inspiring more instructor trainers to meet the
+demand for Library Carpentry workshops around the globe and thus reach
+new regions and communities.
+
+This new position is funded by IMLS and hosted by the University of
+California Curation Center (UC3), the digital curation program of the
+California Digital Library (CDL). It is intended to support the work of
+the Library Carpentry governance committee on streamlining operations
+with The Carpentries, determining standard curriculum, growing
+instructor training for librarians and planning for community events
+like the upcoming Mozilla Sprint to update Library Carpentry materials.
+Chris will be helping to manage the sprint work in the northern
+hemisphere.
+
+Chris is excited about advancing the profession and sees the Library
+Carpentry and The Carpentries communities as the perfect catalyst to do
+that. He is on Twitter as [@libcce](https://twitter.com/libcce), on
+GitHub and on LinkedIn, and we’re very excited to welcome Chris to this
+role!
+
+For more information on Library
+Carpentry:https://librarycarpentry.github.io Follow
+[@libcarpentry](https://twitter.com/libcarpentry) on Twitter. For more
+information on UC3 and California Digital Library: http://uc3.cdlib.org
+Follow [@caldiglib](https://twitter.com/caldiglib) and
+[@UC3CDL](https://twitter.com/cUC3CDL) on Twitter.

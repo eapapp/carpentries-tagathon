@@ -1,0 +1,113 @@
+
+
+“LESSON INFRASTRUCTURE SUBCOMMITTEE 2017 SEPTEMBER MEETING”
+
+
+This post will cover the topics discussed and their resolutions."
+
+On 5 September 2017 at 14:00UTC+0, the Lesson Infrastructure
+Subcommittee had their 2017 September meeting. This post will cover the
+topics discussed and their resolutions.
+
+
+Software Carpentry and Data Carpentry merge
+
+With the upcoming merge, this subcommittee needs to start thinking about
+streamlining the thinking process and disconnect from the organisations
+that maintain the lessons. The responsibilities for this subcommittee
+will stay unchanged:
+
+-   maintain lesson template
+-   maintain lesson documentation
+-   maintain workshop template
+-   overview of what features the lessons will continue to have
+-   stay in contact with maintainers of lesson
+-   stay in contact with staff
+
+Lesson template, lesson documentation and workshop template WILL HAVE A
+NEW HOME IN 2018. If you have questions or want to help with this
+migration, Christina Koch is the person you should contact.
+
+During the migration, we will solve the divergences between the Software
+Carpentry workshop template and Data Carpentry workshop template. If you
+have questions or want to help with this migration, Tracy Teal is the
+person you should contact.
+
+
+Keyboard key visual look
+
+To improve the look and feel of the lesson and the learners’ ability to
+use them, we will make the keyboard keys that need to be pressed by the
+learner, look different from the other components of the text, so they
+are highlighted more effectively. We expect to merge the new CSS and
+documentation in the next few weeks and that release, 2018.6, will
+contain all of lessons with this new look. More information about this
+new feature is available at this pull request. Thanks to Brandon Curtis
+for proposing this idea.
+
+
+Jekyll/Liquid include for images/figures
+
+To improve readability by providing a more uniform image rendering, we
+will pursue the proposal on GitHub issue styles#161 after we review
+lessons unit test suite and its use by a continuous integration
+platform.
+
+
+Citing the templates
+
+If you are using the lesson template and you want to credit us, please
+use Software Carpentry: Example Lesson at Zenodo.
+
+
+Lesson release and hosting scheme
+
+For years, we have wanted to point learners to the latest release of our
+lessons but due to technical limitations of GitHub Pages and the
+challenges of multiple branches for contributors new to Git (for
+example, the current branch isn’t obvious when you visit the lesson
+homepage in GitHub, and maintainers can’t change the target branch of a
+pull request) we stayed with a single gh-pages branch in the Git
+repository.
+
+Jonah Duckles opened an issue to discuss possible solutions to this
+issue. If you want to contribute to the discussion please leave your
+comments on the GitHub issue.
+
+
+Fully-offline-capable functionality in lesson navigation
+
+vuw-ecs-kevin GitHub user requested that we improve the readers
+experience, if people come to our lesson from Zenodo, i.e. from one of
+our releases. Changes on the line of vuw-ecs-kevin’s pull request or
+Raniere’s pull request will be included in the next release of our
+lessons.
+
+
+Managing workshop websites and install instructions
+
+This is another old request [1, 2, 3, 4]. Edit only one line of
+index.html and have the correct setup instructions for the workshop.
+Jonah Duckles opened a new issue to discuss ideas to resolve our old
+request.
+
+Kate Hertweck, Christina Koch, Raniere Silva and Tracy Teal are going to
+work on strategic plan to address taking into consideration this request
+taking in consideration the comments on the GitHub issue.
+
+
+Next steps
+
+We will freeze lesson template and lesson documentation in October so
+maintainers have time to work on the next release.
+
+The subcommittee will meet again in November to provide an update on
+some of the topics covered by this post and discuss new requests from
+the community.
+
+
+Acknowledgement
+
+Thanks to Kate Hertweck, Maneesha Sane, Mark Laufersweiler, Naupaka
+Zimmerman, Person Paula Andrea Martinez, SherAaron Nicole Hurt and Tracy
+Teal. Special thanks to Christina Koch for the great notes.

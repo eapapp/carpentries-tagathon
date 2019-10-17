@@ -1,0 +1,16 @@
+# "Call for Contributions: Moving Ahead with Genomics Data Carpentry"
+## NA
+
+
+Way back in March of 2015, a group of 27 Carpentry community members gathered at Cold Spring Harbor for the first Data Carpentry Hackathon on a set of lessons and assessments for Genomics Data Carpentry. From the beginning, we wanted these lessons to be driven by, and useful to the large community of biologists who are (or will be) working with large genomics dataset datasets; perhaps as many as 90% of biologists. 
+
+The creation of these lessons involved several new approaches for Data Carpentry lesson development:
+
+- Lessons were conceived at a Hackathon that brought together community members with a wide range of genomics expertise - from students just getting started with genomics to researchers who have spent most of their careers in the field- 
+- Workshops would be taught on the cloud, acknowledging the reality that genomics research involves the use of cloud and HPC
+- Assessment should be ‘baked’ into the process; we want to think about learning objectives and how they can be assessed before we start getting lost in the details of vim vs. vi. 
+
+These innovations supported the essentials of Data Carpentry teaching. Lessons focus on principles not tools, emphasize tidy data, reproducible workflows, and are unified along a “story arc” that captures common tasks of genomics analyses. 
+
+Since the hackathon, these lessons have been taught at least 15 times in 6 countries to positive response:
+

@@ -1,0 +1,94 @@
+
+
+NA
+
+
+Want to teach geospatial skills? Sign up for onboarding or to host a pilot workshop today."
+
+The long-awaited Data Carpentry curriculum for working with Geospatial
+data is now ready to teach! As with all our newly developed curricula,
+these lessons are now in ‘beta’. We are actively promoting workshops and
+collecting information from those workshops to improve these lessons as
+they are taught more broadly and in different contexts. We will also be
+onboarding Instructors to prepare them to teach these new lessons. Keep
+reading for more details.
+
+So what’s in the material?
+
+This R-based geospatial workshop will introduce project organisation and
+management for spatial data, cover data structures and storage and
+transfer formats, teach the creation of summary statistics and
+publication-quality graphics, and help users work with and plot vector
+and raster-format spatial data in R. Find more information on the
+workshop homepage.
+
+Want to teach this material?
+
+We will be onboarding Instructors to prepare them to teach these new
+lessons. We also want to run some pilot workshops so that we can assess
+what we have got right, and what might still need some tweaking.
+
+Lesson background
+
+These lessons were initially developed in 2016 through a hackathon held
+in conjunction with the National Ecological Observatory Network (NEON).
+Hackathon participants included the following people who became the
+initial authors of the lessons: Leah A. Wasser - University of Colorado,
+Megan A. Jones - NEON, Zack Brym - University of Florida, Kristina
+Riemer - University of Florida, Jason Williams - Cold Spring Harbor Lab,
+Jeff Hollister - US Environmental Protection Agency, Mike Smorul -
+SESYNC, Joseph Stachelek - Michigan State University, Marissa Guarinello
+- NKN/University of Idaho, Jonah Duckles - The Carpentries, Keely Roth -
+University of California at Davis, Mike Alonzo - NASA Goddard, Ben Best
+- Duke / UCSB, Matt Kwit - Duke, Tracy Teal - The Carpentries, Kaitlin
+Stack Whitney - University of Wisconsin-Madison, Dave Roberts - Montana
+State, Courtney Soderberg - Center for Open Science, Sean Barberie -
+University of Alaska Fairbanks. The workshop materials were piloted in
+March 2016, and the lesson release has been much anticipated by
+Carpentries’ community members. Most of the data used in the workshop
+has been sourced from NEON (https://www.neonscience.org/). You can see
+other NEON tutorials for advanced GIS topics here
+(https://www.neonscience.org/resources/data-tutorials).
+
+
+Recent community involvement
+
+Recent developments in these materials have been led by a highly active
+and engaged group of Maintainers (Lachlan Deer, Juan Fung, Lauren
+O’Brien, Chris Prener, Janani Selvaraj, Joseph Stachelek , Tyson
+Swetnam, Jane Wyngaard) and Curriculum Advisors (Anne Fouilloux -
+University of Oslo, Arthur Endsley - University of Michigan, Chris
+Prener - St Louis University, Jeff Hollister - US Environmental
+Protection Agency, Joseph Stachelek - Michigan State University, Leah
+Wasser - University of Colorado, Michael Sumner - Australian Antarctic
+Data Centre, Michele Tobias- University of California, Davis, Stace
+Maples - Stanford University).
+
+If you are interested in the direction and decisions the Curriculum
+Advisors took for the lesson, you can see their minutes. The
+finalisation of many parts of the material was down to a big burst of
+work during the April 2018 Bug BBQ. Thanks to all the community members
+who took part.
+
+Special thanks go to: Lauren O’Brien for re-organizing the Geospatial
+Project Organization and Management lesson to line up with changes to
+the rest of the curriculum. Lachlan Deer, Juan Fung, Joseph Stachelek,
+Anne Fouilloux and Justin Millar for converting all of the episodes to
+ggplot from base R graphics. Joseph Stachelek for transferring the
+lessons to the current lesson template. Chris Prener for updating the
+installation instructions and creating a Docker image for the lessons.
+Leah A. Wasser and Megan A. Jones for providing an introduction to the
+data used in the lesson. Michael Culshaw-Maurer, Anne Fouilloux, Michael
+Heeremans, Megan A. Jones, Natalie Robinson, Joseph Stachelek, Tracy
+Teal, Michele Tobias, and Leah A. Wasser for teaching pilot workshops.
+NEON for collecting and sharing the data, organizing and co-hosting the
+2016 Hackathon, and providing staff time to produce these lessons.
+
+Teach or host a Geospatial workshop!
+
+Want to get involved with the Geospatial materials? Get badged to teach
+the Geospatial lessons. Sign up for onboarding using this Etherpad.
+Onboarding sessions also appear on the Community Calendar. Request a
+Geospatial beta pilot workshop at your institution using this form.
+Self-organise a Geospatial beta pilot workshop at your institution. Use
+our self-organized workshop checklist to plan your workshop..

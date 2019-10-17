@@ -1,0 +1,64 @@
+
+
+GENOMICS WORKSHOP PILOT AND BUGBBQ AT UNIVERSITY OF ARIZONA
+
+
+Help prepare the Genomics lessons for release in June!"
+
+This February, a small group of committed community members, led by
+Taylor Reiter at the University of California, Davis, completed a major
+update to the Data Carpentry Genomics curriculum. A huge thank you to
+everyone who contributed! This update included significant changes to
+both the data set and the software used for the lessons, modernizing the
+workshop and keeping it relevant to researchers working in the genomics
+field. The new version of this curriculum is already live and will be
+officially published in the upcoming lesson release in June.
+
+In parallel with these updates to the core Genomics workshop curriculum,
+Maintainers of the Data Analysis and Visualization in R for Genomics
+lesson have completely revamped their lesson. While previous versions
+focused on analysis of a small metadata dataset and was disconnected
+from the narrative of the remaining Genomics lessons, this revised
+version picks up where the core lessons leave off in analyzing and
+visualizing output from a variant calling pipeline.
+
+Jason Williams and Uwe Hilgert will be hosting a pilot workshop using
+this new lesson at the University of Arizona on 30-31 May, followed by a
+BugBBQ hacky day in which Instructors and other Carpentries community
+members around the globe will use feedback from the pilot to improve the
+Genomics lessons and prepare them for publication in June.
+
+How can I get involved?
+
+1.  If you’re interested in attending the workshop and hacky day, please
+    fill out this application. Limited funding is available to support
+    travel within the United States.
+2.  If you can’t be present in person, the workshop and hacky day will
+    be live-streamed from 8:30am - 5:00pm US MST. To convert to your
+    local time, click this link for start time and this link for end
+    time. Start and end times are the same each day. For live-stream
+    links, please visit the workshop website.
+3.  Opportunities to contribute aren’t limited to just these three days!
+    Maintainers for the Genomics lessons welcome contributions and have
+    created lists of issues that need attention. Check out the links
+    below for each lesson to see how you can contribute.
+
+-   Project Organization and Management
+-   Introduction to the Command Line
+-   Data Wrangling and Processing
+-   Introduction to Cloud Computing
+-   Data Analysis and Visualization
+
+4.  We’re planning to start actively promoting the Genomics curriculum
+    in June and will have more opportunities for you to teach. Make sure
+    you’re signed up on the Instructor mailing list to be informed of
+    upcoming teaching opportunities. We’re also developing training
+    materials to help Instructors prepare for this workshop. To be
+    notified when materials are released, add your info to this form.
+5.  No matter how you choose to get involved, you can follow the
+    conversation during the BugBBQ on this Gitter Channel.
+
+If you have any questions about how to get involved or about the
+Genomics curriculum, email us at team@carpentries.org. We’re excited to
+work with you on publishing these lessons and making them available to a
+larger audience!

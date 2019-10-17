@@ -1,0 +1,39 @@
+
+
+“CARPENTRIES TRANSITION FROM FISCALLY SPONSORED PROJECT TO NUMFOCUS COMMUNITY ALLIANCE MEMBER”
+
+
+NA
+
+Software Carpentry and Data Carpentry have combined their separate
+projects into a new project, now known as The Carpentries.
+
+As part of this transition, Software Carpentry and Data Carpentry are
+moving from Fiscally Sponsored Projects with NumFOCUS to The Carpentries
+with Community Initiatives, whose fiscal sponsorship administration
+services are better aligned with our emerging needs. The Carpentries
+looks forward to new opportunities with NumFOCUS and will continue to
+participate in the NumFOCUS Community as a new member of the NumFOCUS
+Community Alliance.
+
+As a Community Alliance member, we will be one of the organizations
+whose mission intersects with that of NumFOCUS and reflects support for
+open source scientific computing. NumFOCUS cross-promotes activities and
+events held by members of their Community Alliance in a reciprocal,
+supportive relationship. In particular, both organizations share a
+commitment to increasing diversity and inclusion in the data community.
+
+Software Carpentry joined NumFOCUS as a fiscally sponsored project in
+2014, and Data Carpentry joined NumFOCUS as a fiscally sponsored project
+in 2015. Over the ensuing years both Carpentries worked closely together
+and in early 2017 began discussions about a merger. The merger was
+approved last summer, and this January marks the milestone of a fully
+merged project, The Carpentries, with a newly-elected Executive Council.
+
+We are very grateful for the support of NumFOCUS through the initiation,
+development and growth of Software and Data Carpentry, and for their
+continued support through this transition to The Carpentries with
+Community Initiatives. We look forward to continuing to work closely
+with NumFOCUS as a member of their Community Alliance, to promote the
+growth and development of the open source scientific computing
+community.

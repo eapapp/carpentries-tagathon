@@ -1,0 +1,48 @@
+
+
+DATA CARPENTRY GOES TO THE NETHERLANDS
+
+
+ELIXIR sponsored Data Carpentry workshop"
+
+LAST WEEK, BETWEEN 22ND AND 25TH JUNE, WE RAN A DATA CARPENTRY HACKATHON
+AND WORKSHOP AT THE UNIVERSITY OF UTRECHT, NETHERLANDS. BOTH EVENTS WERE
+A PART OF ELIXIR PILOT PROJECT AIMING TO DEVELOP DATA AND SOFTWARE
+CARPENTRY TRAINING ACROSS THE ELIXIR NODES. THE PROJECT IS COORDINATED
+BY ELIXIR UK AND A NUMBER OF OTHER NODES ARE PARTNERING UP, INCLUDING
+ELIXIR NETHERLANDS, ELIXIR FINLAND AND ELIXIR SWITZERLAND.
+
+The hackathon consisted of two days during which the participants
+representing 10 ELIXIR Nodes worked on Data Carpentry training
+materials. The first day started with an introduction to the Data and
+Software Carpentry teaching model. This was followed by a review and
+discussion of the existing materials. The participants made suggestions
+about possible improvements for the existing materials and new topics to
+be developed. The overall theme of the hackathon was “genomics” and
+hence the participants could base their work on the existing material
+for teaching genomics in Data Carpentry. Eventually three groups were
+formed:
+
+-   Group 1 which worked on creating training materials on using ELIXIR
+    Cloud resources.
+-   Group 2 which worked on a decision tree for using cloud computing.
+-   Group 3 which worked on different aspects of understanding how to
+    use one’s data for genomics. In particular the group worked on
+    describing the file formats, file manipulation, pipelines
+    integration, post-assembly - de novo RNA Transcriptome Analysis,
+    handling blast annotation output and verifying data.
+
+The hackathon was facilitated by Karthik Ram (University of California,
+Berkeley, rOpenSci, Data Carpentry) and Aleksandra Pawlik (the Software
+Sustainability Institute’s Training Lead). After the hackathon Karthik
+and Aleksandra taught a 2-day Data Carpentry workshop. It was the first
+Data Carpentry workshop in the Netherlands. Thirty students from life
+science research areas participated. The workshop covered the standard
+Data Carpentry curriculum. One module was added at the end of the second
+day. This module covered using ELIXIR Cloud resources to allow us to
+test out the materials created during the hackathon.
+
+The whole event received positive feedback and this pilot project
+appears to have had a great reception within ELIXIR. The Slovenian and
+Belgian Nodes are running workshops this year and it is likely that
+others will follow soon.

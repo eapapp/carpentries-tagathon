@@ -1,0 +1,33 @@
+
+
+“DATA CARPENTRY SUPPORTS I4OC”
+
+
+NA
+
+Our increasing capacity to collect data is changing how we can look at
+the world. This data we’re collecting has the most promise when it is
+accessible to all researchers, for all types of inquiry and wherever
+people do work and ask questions. Open data not only increases the
+potential for discovery, but also adds to the research’s impact,
+resulting in more citations and attention to the work. It is also a
+fundamental element of reproducible research, allowing others to better
+understand the research and build on the work that has been done.
+
+That’s why Data Carpentry is proud to be one of the founding
+stakeholders of the Initiative for Open Citations (I4OC). I4OC is “a
+collaboration between scholarly publishers, researchers, and other
+interested parties to promote the unrestricted availability of scholarly
+citation data.” Six organizations (OpenCitations, the Wikimedia
+Foundation, PLOS, eLife, DataCite, and the Centre for Culture and
+Technology at Curtin University) founded I4OC and announced its
+establishment last week. Already I4OC has increased the number of
+publications with freely available datasets in Crossref from 1% to 40%.
+29 publishers have already chosen to deposit and open up citation data.
+
+The Internet Archive, Mozilla, the Bill & Melinda Gates Foundation, the
+Wellcome Trust, and 29 other projects and organizations have formally
+put their names behind I4OC as stakeholders in support of openly
+accessible citations.
+
+See I4OC’s full press release for more information on the project.

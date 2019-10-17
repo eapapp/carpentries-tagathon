@@ -1,0 +1,62 @@
+
+
+“OUR 2017 COMMUNITY SERVICE AWARD WINNER: ANELDA VAN DER WALT”
+
+
+NA
+
+The Carpentries are happy to honor Anelda van der Walt as our 2017
+Community Service Award winner. We received seven independent
+nominations for Anelda this year, which is a testament to her commitment
+to both individual people and the broader community.
+
+Starting from scratch, Anelda planted the tiny seed that has now become
+the phenomenal growth of Software and Data Carpentry in South Africa,
+not to mention its spread to an ever-growing list of other African
+countries, such as Namibia, Botswana, Ghana, Gabon, Mauritius, and
+Ethiopia.
+
+With great determination and persistence, she secured funding to enable
+a range of workshops and Instructor trainings to be run, such as this
+first workshop in 2016 and this one in 2017.
+
+Funding meant many participants could travel to and attend training
+which would normally have been far beyond their reach. She also secured
+the first ever Software and Data Carpentry membership in South Africa.
+Through her passion for the Carpentries, she has inspired many people to
+acquire the command line, HPC and other skills that many thought were
+beyond their capacity to learn.
+
+[Anelda’s award certificate]
+
+Since then, she has successfully grown a pool of qualified instructors
+and has helped hundreds of researchers in South Africa and other African
+countries develop foundational computational and data skills to drive
+their research forward. Instructor numbers are now above 22.
+
+Community and capacity building on this scale are much more challenging
+in southern Africa. Differing research sector priorities, cultural
+issues, and the availability (or otherwise) of reliable networked
+infrastructure mean that funding alone is not the only challenge
+workshop organizers face. Given this, it is commendable that Anelda has
+worked so hard to foster and support diversity, reaching out to
+researchers in rural areas and actively working to include groups
+hitherto under-represented in STEM.
+
+In addition to capacity building, she has taught at more than 10
+workshops and has both organized and taught at three instructor training
+events within the past 18 months. Post-training, she has followed up
+with trainees to encourage them to complete their check-out, and has
+helped many begin planning and running their own workshops, oftentimes
+helping them source extra instructors and helpers.
+
+She encourages Instructors across Africa to interact with each other via
+African-centred calls like this, both to foster collaboration and to
+ensure new Instructors feel valued and welcomed into the community.
+
+She also contributes to the global Carpentries community by
+participating in regular Trainer discussions and meetings and by taking
+her turn at hosting instructor discussion sessions and teaching demos.
+
+Congratulations Anelda and thank you very much for everything you have
+done – we honor and value the work you do for the Carpentries.

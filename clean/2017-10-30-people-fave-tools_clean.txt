@@ -1,0 +1,22 @@
+
+
+“PEOPLE’S FAVOURITE TOOLS”
+
+
+NA
+
+A big thank you to everyone who has responded so far to the call for
+short posts about their favourite tools.
+
+So far we have had Paula Martinez on R, Jeff Oliver sharing his love of
+Git and GitHub, Kellie Ottoboni talking up IPython, and Thomas Arildsen
+on how the Jupyter Notebook facilitates his teaching. Juliane Schneider
+has now weighed in on the wonders of OpenRefine.
+
+Expect more posts as people contribute further favourites. Even if your
+tool has already been mentioned, we would still welcome a post about it,
+as your use of the tool may be different.
+
+Have you got a favourite tool you would like to tell us about? Please
+use this form to add a bit of detail and we will do the rest. You can
+read the background to these posts here.
