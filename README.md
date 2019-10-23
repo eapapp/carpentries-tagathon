@@ -11,6 +11,9 @@ This is the Oslo carpentry Study group's contribution to the [October Tagathon](
 ## Roadmap
 
 * text mine it and come up with automatic tags.
+* using [Voyant-Tools](https://voyant-tools.org/) – to reveal the most used topics
+* compare the topics revealed by Voyant with the Carpentries list of tags
+* write a blog post about what we did for the Hackathon-week
 
 ## Setup
 
